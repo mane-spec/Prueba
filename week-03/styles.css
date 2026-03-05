@@ -1,0 +1,31 @@
+:root {
+  --primary-color: #3b1f0a;
+  --bg-color: #f5f0e8;
+}
+
+body {
+  margin: 0;
+  padding: 16px;
+  background-color: var(--bg-color);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 35px;
+  line-height: 1.5;
+  color: #1a1a1a;
+
+  display: flex;
+  flex-direction: column;
+}
+
+body > * {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+    color: #3b1f0a;
+}
+body { display:flex ;
+flex-direction: column ;}
+
+img {width: 100%;}
