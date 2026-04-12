@@ -1,0 +1,36 @@
+1. PERSONA GENERATION PROMPT:
+Create a brand persona for a bakery called "Mario’s Bakery" aimed at young people and international students. Include personality and tone, a 3-color palette with HEX codes, typography suggestions using Google Fonts, and a short 2-sentence marketing pitch. The brand should feel warm, cozy, artisanal, and slightly premium.
+
+2. UI GENERATION PROMPT:
+Design a modern mobile UI for a bakery website called "Mario’s Bakery".
+
+Brand personality:
+Mario’s Bakery is warm, cozy, and artisanal, with a slightly premium feel. It should reflect comfort, freshness, and a welcoming atmosphere.
+
+Target audience:
+Young people and international students.
+
+Design requirements:
+- Hero section with a large image of fresh bread and pastries
+- Headline: "Fresh bread. Warm moments."
+- Subheadline about comfort and handmade quality
+- Clear call-to-action button: "View Menu"
+
+Sections to include:
+1. Featured baked goods
+2. About the bakery (short description)
+3. Menu preview
+
+Visual style:
+- Minimalist and clean layout
+- Warm color palette (beige, brown, golden tones)
+- Elegant typography (serif for headings, sans-serif for body text)
+
+Mobile-first design.
+
+3. IMAGE GENERATION PROMPT:
+A cozy and artisanal bakery interior called "Mario’s Bakery", designed with a warm and welcoming atmosphere. The space features freshly baked bread and pastries displayed on wooden shelves, with soft natural lighting and warm tones such as beige, brown, and golden accents. The environment feels premium yet comfortable, like a place where people can relax and enjoy simple moments.
+
+Include details such as rustic textures, wooden furniture, and an inviting counter with baked goods. The scene should evoke freshness, craftsmanship, and a sense of home. No people or minimal people, focus on the bakery products and atmosphere.
+
+Style: realistic photography, high detail, soft lighting, shallow depth of field, warm color palette, cinematic composition, no text overlay.

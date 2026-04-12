@@ -1,0 +1,16 @@
+BRAND PERSONA: MARIO’S BAKERY
+
+Personality / Tone:
+Mario’s Bakery is a warm, cozy, and artisanal brand with a slightly premium feel. It conveys comfort, simplicity, and authenticity, like a local bakery where people can relax and enjoy freshly baked goods. The tone is friendly, inviting, and natural, avoiding anything too corporate or overly formal.
+
+Color Palette:
+- Primary color (dark brown): #3E2723
+- Secondary color (warm beige): #F5E9DC
+- Accent color (soft gold): #D4A373
+
+Typography (Google Fonts):
+- Headings: Playfair Display (serif, elegant and premium feel)
+- Body text: Inter (clean, modern, and highly readable)
+
+Marketing Pitch:
+Mario’s Bakery is a cozy, artisanal bakery that brings people together through freshly baked goods and warm, simple moments. It offers a welcoming space where quality, comfort, and tradition meet.
