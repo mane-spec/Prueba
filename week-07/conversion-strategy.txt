@@ -1,0 +1,8 @@
+The Value Exchange:
+I offered a 2-for-1 coffee voucher and exclusive student promotions in exchange for the user's email. This creates a clear incentive for students to join the loyalty club.
+
+Data Minimization:
+I only asked for Name, Email, and University. This is sufficient to identify the user, contact them, and segment offers based on their university, without collecting unnecessary personal data.
+
+Audit Results:
+The initial Performance score was 65. The biggest issue affecting performance was large image sizes, especially high-resolution images used on the homepage, which slow down loading times on mobile devices.
