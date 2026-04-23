@@ -1,0 +1,12 @@
+The Friction Test:
+It took me 5 clicks from the homepage to complete an order.
+Path: Homepage -> Order Online -> Add White Bread to Cart -> View Cart -> Proceed to Checkout -> Place Order.
+
+Product Logic:
+My variable product was White Bread.
+I created one attribute called "Preparation" with two options: Sliced and Unsliced.
+This allowed the customer to choose how they wanted the bread before adding it to the cart.
+
+Inventory:
+For the Artisanal Bread, I enabled stock management and set the stock quantity to 5.
+After placing a test order for one item, the stock decreased by 1, so it went from 5 to 4.
