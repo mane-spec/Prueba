@@ -1,0 +1,55 @@
+Week 10 – Automation Notes
+Project: Mario's Bakery
+
+1. The Coupon
+
+Coupon code: FRESHMAN26
+
+Discount: 15% percentage discount
+
+Minimum order value: 100 CZK
+
+Expiry date: 30 May 2026
+
+Business logic:
+The purpose of this coupon is to reduce the friction of the first purchase and encourage new students to try the bakery. A 15% discount is attractive enough to create motivation, but the minimum order value of 100 CZK protects the business from giving discounts on very small purchases. This also encourages customers to add one extra product to their cart, increasing the average order value.
+
+2. The Automation
+
+Tool used: MailPoet
+
+Automation type:
+A welcome email that is sent automatically when a user joins the Mario's Bakery loyalty list.
+
+Email subject line:
+Welcome to Mario's Bakery – enjoy 15% off your first order
+
+Email content summary:
+The email welcomes the customer to the bakery community, briefly introduces the brand as a warm, local and student-friendly bakery, and gives them the FRESHMAN26 coupon code. The design should match the bakery website: warm colors, simple layout, friendly tone, and product images of fresh bread.
+
+Example welcome email text:
+Hi there,
+
+Welcome to Mario's Bakery. We are happy to have you in our loyalty club.
+
+As a small welcome gift, use the code FRESHMAN26 to get 15% off your first order over 100 CZK.
+
+Fresh bread. Warm moments.
+
+See you soon,
+Mario's Bakery
+
+3. The Data Strategy
+
+New form field:
+What is your favorite bakery product?
+
+Radio button options:
+Brown Bread
+White Bread
+Artisanal Bread
+
+How this data will be used:
+This information allows the business to send more relevant emails instead of sending the same message to every customer. For example, if a customer chooses Artisanal Bread, they can receive an email when a new handmade or traditional bread is available. If they choose White Bread, they can receive offers for breakfast combinations. If they choose Brown Bread, they can receive messages focused on healthy or whole-grain options.
+
+This improves retention because customers receive emails connected to their real preferences. It also increases the chance of repeat purchases because the offer feels more personal and useful.
